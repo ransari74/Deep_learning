@@ -1,1 +1,2 @@
-# Deep_learning with Pytorch A to Z!
+# Deep_learning with Pytorch for beginners!!
+In this series of tutorial, I am trying to teach how implement the deep learning model using pytorch. You will learn how to use pytorch in a way you can customized your model, withe the mathmatic formula behind it. You will find pytorch suprisingly as easy as Keras. In this series, first, you will learn how to build the model "model file". Then, you will learn about about preparing data which can be used to train the model. Finally, you will learn how to develop the training loop, to train your model. Good luck and have fun with the tutorial.
